@@ -1,0 +1,87 @@
+{
+  "company": "UrbanMart Retail Group",
+  "ticker": "URBM",
+  "sector": "Consumer Discretionary - Retail",
+  "trading_data": [
+    {
+      "date": "2026-01-05",
+      "open": 17.45,
+      "high": 17.89,
+      "low": 16.78,
+      "close": 17.12,
+      "volume": 9876543
+    },
+    {
+      "date": "2026-01-06",
+      "open": 17.23,
+      "high": 17.56,
+      "low": 16.32,
+      "close": 16.45,
+      "volume": 12345678
+    },
+    {
+      "date": "2026-01-07",
+      "open": 16.34,
+      "high": 16.78,
+      "low": 15.67,
+      "close": 15.89,
+      "volume": 15678923
+    },
+    {
+      "date": "2026-01-08",
+      "open": 15.76,
+      "high": 15.98,
+      "low": 14.32,
+      "close": 14.56,
+      "volume": 18765432
+    },
+    {
+      "date": "2026-01-09",
+      "open": 14.67,
+      "high": 15.23,
+      "low": 14.21,
+      "close": 14.87,
+      "volume": 16543210
+    },
+    {
+      "date": "2026-01-12",
+      "open": 14.98,
+      "high": 15.67,
+      "low": 14.56,
+      "close": 15.45,
+      "volume": 14532678
+    },
+    {
+      "date": "2026-01-13",
+      "open": 15.56,
+      "high": 17.89,
+      "low": 15.32,
+      "close": 17.65,
+      "volume": 21345678
+    },
+    {
+      "date": "2026-01-14",
+      "open": 17.78,
+      "high": 18.23,
+      "low": 16.98,
+      "close": 17.34,
+      "volume": 19876543
+    },
+    {
+      "date": "2026-01-15",
+      "open": 17.45,
+      "high": 17.67,
+      "low": 15.78,
+      "close": 16.12,
+      "volume": 17654321
+    },
+    {
+      "date": "2026-01-16",
+      "open": 16.23,
+      "high": 16.45,
+      "low": 14.78,
+      "close": 15.23,
+      "volume": 20123456
+    }
+  ]
+}
